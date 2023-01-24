@@ -1,4 +1,4 @@
-<img width="650" height="200" alt="header" src="./header.png"></img>
+<img width="550" height="170" alt="header" src="./header.png"></img>
 ### Stack:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -13,9 +13,9 @@
 </p>
 
 ### Statistics:
-<a href="https://github-readme-stats.vercel.app/api?username=starikovyaroslav&show_icons=true&theme=vue">
-  <img align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=starikovyaroslav&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=vue">
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=tokyonight" />
-</a>
+[<a href="https://github-readme-stats.vercel.app/api?username=starikovyaroslav&show_icons=true&theme=vue">
+  <img align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=starikovyaroslav&show_icons=true&theme=vue" />
+</a>](https://github-readme-stats.vercel.app/api?username=starikovyaroslav&show_icons=true&theme=vue)
+[<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=vue">
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=vue" />
+</a>](https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=vue)
