@@ -1,4 +1,4 @@
-### Yaroslav Starikov/Front-end developer
+<img src="./header.png"></img>
 ***
 ### Stack
 <p>
