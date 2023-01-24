@@ -1,4 +1,4 @@
-<img width="550" height="170" alt="header" src="./header.png"></img>
+<img max-width="550" height="170" alt="header" src="./header.png"></img>
 ### Stack:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
