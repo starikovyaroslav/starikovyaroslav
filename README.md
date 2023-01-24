@@ -1,4 +1,4 @@
-<img src="./header.png"></img>
+<img width="650" height="200" alt="header" src="./header.png"></img>
 ***
 ### Stack
 <p>
